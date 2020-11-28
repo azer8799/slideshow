@@ -1,0 +1,18 @@
+data = {
+  "slideshow": [
+    {
+      "title": "Staffing-Development Services",
+      "description1": "Design, Web Development, Mobile App Development",
+      "description2": "Automation, DevOps, Microservices, Dockers, Containers, Kubernetes.",
+      "image": "image1.jpg"
+    },
+    {
+      "title": "HR Recruitment Services",
+      "description1": "Hiring Designers, Architects, Developers, Automation and Test Engineers, DevOps and Support.",
+      "description2": "Specialized in Leadership Hiring.",
+      "image": "image3.jpg"
+    }
+  ]
+}
+
+
